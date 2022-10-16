@@ -135,7 +135,7 @@ a.button {
 	margin:auto;
 	padding:13px 20px 12px;
 	background:#f7d621;
-	color:#1c050f;
+	color:#ffffff;
 	font-weight:bold;
 	text-transform:uppercase;
 	text-decoration:none;
@@ -144,15 +144,15 @@ a.button {
 	position:relative;
 	font-size:1.8em;
 	margin-top:2rem;
-	border-right:7px solid #1c050f;
-	border-bottom:7px solid #1c050f;
+	border-right:7px solid #ffffff;
+	border-bottom:7px solid #ffffff;
 }
 
 a.button:hover {
 	top:-3px;
 	background:#ffffff;
 	cursor:pointer;
-	color:#1c050f;
+	color:#ffffff;
 }
 
 h1, h2, h3, h4, h5 {
