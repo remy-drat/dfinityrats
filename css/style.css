@@ -150,9 +150,9 @@ a.button {
 
 a.button:hover {
 	top:-3px;
-	background:#ffffff;
+	background:##1c050f;
 	cursor:pointer;
-	color:#ffffff;
+	color:#1c050f;
 }
 
 h1, h2, h3, h4, h5 {
